@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+#Microsoft VS files
+*.vcxproj
+*.filters
+stdafx.*
+targetver.h
